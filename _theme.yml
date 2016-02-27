@@ -1,0 +1,15 @@
+name: 'jekyll'
+
+path:
+  templates:
+    - ./layouts
+    - ./includes
+  plugins:     ./plugins
+  destination: ./
+
+assets:
+  css:
+    source: ./css/main.scss
+    processor:
+      name: sass
+      hash: true
