@@ -4,6 +4,7 @@
   "main": "_theme.yml",
   "author": "Harry Wolff <hello@hswolff.com> (http://hswolff.com/)",
   "license": "MIT",
+  "repository": "yarnjs/yarn-theme-jekyll",
   "dependencies": {
   },
   "devDependencies": {}
