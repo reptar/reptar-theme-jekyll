@@ -1,3 +1,3 @@
-# yarn-theme-jekyll
+# reptar-theme-jekyll
 
-a port of the default jekyll theme for use with yarn.
+a port of the default jekyll theme for use with reptar.
